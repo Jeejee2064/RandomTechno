@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.hotel-s-bocas.com
+
+# Sitemaps
+Sitemap: https://www.hotel-s-bocas.com/sitemap.xml
